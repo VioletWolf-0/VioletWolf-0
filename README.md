@@ -1,5 +1,4 @@
 I am VioletWolf👋
-
 # 💫 About Me:
 📱 Flutter Developer<br>🧠 Exploring full-stack development (Mobile + Backend)<br>🛠️ Building personal and experimental projects<br>🎯 Goal: Becoming a strong full-stack mobile engineer<br>🔍 Currently focused on clean architecture, APIs, and AI and Automation Integration.<br>
 
